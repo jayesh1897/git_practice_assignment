@@ -11,5 +11,5 @@ for(i=1;i<=20;i++){
     }
 } 
 if(count==2){
-    
+    console.log(i)
 }

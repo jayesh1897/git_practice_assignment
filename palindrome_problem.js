@@ -10,7 +10,7 @@
      bag2 = bag2 + x[j];
  }
   if(bag1==bag2){
-      console.log("Yes");
+      console.log("true");
   }else{
-      console.log("No");
+      console.log("false");
   }
