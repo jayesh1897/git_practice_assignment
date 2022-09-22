@@ -1,16 +1,18 @@
-  let x = "naman";
- let bag1="";
- let bag2="";
+  let x = "racecar";
+ let jhola1="";
+ let jhola2="";
  
  for(let i=0; i<=x.length-1; i++){
-     bag1 = bag1 + x[i];
+     jhola1 = jhola1 + x[i];
  }
  
  for(let j=x.length-1; j>=0; j--){
-     bag2 = bag2 + x[j];
+     jhola2 = jhola2 + x[j];
  }
-  if(bag1==bag2){
+  if(jhola1==jhola2){
+
       console.log("true");
-  }else{
-      console.log("false");
+  }
+	else{
+      	console.log("false");
   }
