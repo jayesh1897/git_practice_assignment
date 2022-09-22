@@ -11,8 +11,8 @@
  }
   if(jhola1==jhola2){
 
-      console.log("true");
+      console.log("Yes");
   }
 	else{
-      	console.log("false");
+      	console.log("No");
   }
