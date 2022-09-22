@@ -1,6 +1,7 @@
 //printing the prime no. from 1 to 20
 
-let num = 30;
+
+let num = 3456;
 let tom=0;
 
 for(i=1;i<=30;i++){
